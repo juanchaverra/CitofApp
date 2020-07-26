@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CitofApp</string>
+    <string name="apto">Apto</string>
+    <string name="llamar">Llamar</string>
+    <string name="cr_47_50_74">Cr 47 #50–74</string>
+    <string name="dobaibe">DOBAIBE</string>
+    <string name="title_activity_datos">MainActivity</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="administrador">Administrador</string>
+    <string name="crear">Crear</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="nuevo_n_mero">Nuevo número</string>
+    <string name="guardar">Guardar</string>
+    <string name="apartamento">Apartamento</string>
+    <string name="nombre">Nombre</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="n_mero_nuevo">Número nuevo</string>
+    <string name="n_mero_actual">Número actual</string>
+    <string name="buscar">Buscar</string>
+</resources>
